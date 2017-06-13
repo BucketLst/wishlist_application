@@ -1,0 +1,10 @@
+E:\application_services\webapi\wishlist_application\wishlist.webapi\bin\Debug\netcoreapp1.1\wishlist.webapi.deps.json
+E:\application_services\webapi\wishlist_application\wishlist.webapi\bin\Debug\netcoreapp1.1\wishlist.webapi.runtimeconfig.json
+E:\application_services\webapi\wishlist_application\wishlist.webapi\bin\Debug\netcoreapp1.1\wishlist.webapi.runtimeconfig.dev.json
+E:\application_services\webapi\wishlist_application\wishlist.webapi\obj\Debug\netcoreapp1.1\wishlist.webapi.AssemblyInfo.cs
+E:\application_services\webapi\wishlist_application\wishlist.webapi\bin\Debug\netcoreapp1.1\wishlist.webapi.dll
+E:\application_services\webapi\wishlist_application\wishlist.webapi\bin\Debug\netcoreapp1.1\wishlist.webapi.pdb
+E:\application_services\webapi\wishlist_application\wishlist.webapi\bin\Debug\netcoreapp1.1\wishlist.dataaccess.dll
+E:\application_services\webapi\wishlist_application\wishlist.webapi\bin\Debug\netcoreapp1.1\wishlist.dataaccess.pdb
+E:\application_services\webapi\wishlist_application\wishlist.webapi\obj\Debug\netcoreapp1.1\wishlist.webapi.dll
+E:\application_services\webapi\wishlist_application\wishlist.webapi\obj\Debug\netcoreapp1.1\wishlist.webapi.pdb

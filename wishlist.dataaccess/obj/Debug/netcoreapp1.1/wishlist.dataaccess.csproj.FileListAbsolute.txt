@@ -1,0 +1,6 @@
+E:\application_services\webapi\wishlist_application\wishlist.dataaccess\bin\Debug\netcoreapp1.1\wishlist.dataaccess.deps.json
+E:\application_services\webapi\wishlist_application\wishlist.dataaccess\bin\Debug\netcoreapp1.1\wishlist.dataaccess.dll
+E:\application_services\webapi\wishlist_application\wishlist.dataaccess\bin\Debug\netcoreapp1.1\wishlist.dataaccess.pdb
+E:\application_services\webapi\wishlist_application\wishlist.dataaccess\obj\Debug\netcoreapp1.1\wishlist.dataaccess.AssemblyInfo.cs
+E:\application_services\webapi\wishlist_application\wishlist.dataaccess\obj\Debug\netcoreapp1.1\wishlist.dataaccess.dll
+E:\application_services\webapi\wishlist_application\wishlist.dataaccess\obj\Debug\netcoreapp1.1\wishlist.dataaccess.pdb

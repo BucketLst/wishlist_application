@@ -1,0 +1,10 @@
+E:\application_services\webapi\wishlist_application\test\bin\Debug\netcoreapp1.1\test.deps.json
+E:\application_services\webapi\wishlist_application\test\bin\Debug\netcoreapp1.1\test.runtimeconfig.json
+E:\application_services\webapi\wishlist_application\test\bin\Debug\netcoreapp1.1\test.runtimeconfig.dev.json
+E:\application_services\webapi\wishlist_application\test\bin\Debug\netcoreapp1.1\test.dll
+E:\application_services\webapi\wishlist_application\test\bin\Debug\netcoreapp1.1\test.pdb
+E:\application_services\webapi\wishlist_application\test\bin\Debug\netcoreapp1.1\wishlist.dataaccess.dll
+E:\application_services\webapi\wishlist_application\test\bin\Debug\netcoreapp1.1\wishlist.dataaccess.pdb
+E:\application_services\webapi\wishlist_application\test\obj\Debug\netcoreapp1.1\test.AssemblyInfo.cs
+E:\application_services\webapi\wishlist_application\test\obj\Debug\netcoreapp1.1\test.dll
+E:\application_services\webapi\wishlist_application\test\obj\Debug\netcoreapp1.1\test.pdb
